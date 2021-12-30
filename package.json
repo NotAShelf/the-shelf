@@ -30,7 +30,7 @@
     "typescript": "4.5.4"
   },
   "dependencies": {
-    "eslint-config": "git+https://git.frozendev.tk/NotAShelf/eslint-config.git",
-    "tsconfig": "git+https://git.frozendev.tk/NotAShelf/ts-config.git"
+    "eslint-config": "git+https://github.com/NotAShelf/eslint-config.gitgit",
+    "ts-config": "git+https://github.com/NotAShelf/ts-config.git.git"
   }
 }
