@@ -15,7 +15,7 @@ const utils = require('the-shelf');
 ## Installation
 
 ```sh
-$ npm i <git-url-here>
+$ npm i https://github.com/NotAShelf/the-shelf --save
 ```
 
 ## License
